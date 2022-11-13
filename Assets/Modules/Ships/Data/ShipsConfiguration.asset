@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e92a444c7b92a7b499057edebf94a786, type: 3}
+  m_Name: ShipsConfiguration
+  m_EditorClassIdentifier: 
+  <RealDistanceMultiplier>k__BackingField: 8
+  <ShipRadius>k__BackingField: 0.35
+  <ShipPrefab>k__BackingField: {fileID: 5046878657593902431, guid: 2871bd5ba2463754ba210368a6164416, type: 3}
+  <ShotPrefab>k__BackingField: {fileID: 4325591356962445117, guid: c1142eec1678680498192ccf81d86540, type: 3}

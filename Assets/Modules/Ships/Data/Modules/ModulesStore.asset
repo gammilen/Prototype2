@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09052844a335cf64eb460c6096cee5e5, type: 3}
+  m_Name: ModulesStore
+  m_EditorClassIdentifier: 
+  _weaponModules:
+  - {fileID: 11400000, guid: 9753dfe1d6982984e8fd5003cb0e3035, type: 2}
+  - {fileID: 11400000, guid: 041f3e7c22f783843b71ebc6d2a01c55, type: 2}
+  - {fileID: 11400000, guid: c7269039c67f3ea4c8c604669966face, type: 2}
+  _statModules:
+  - {fileID: 11400000, guid: 984c36ad6eac49544adb10e555516789, type: 2}
+  - {fileID: 11400000, guid: e9ebd46fefbb4634bb7496fe0fb52e65, type: 2}
+  - {fileID: 11400000, guid: 8eb6e6ce5d3a22b44b3fb017cc8f8952, type: 2}
+  - {fileID: 11400000, guid: f75d8a3babc23e949ac794342434e1a9, type: 2}
+  <IsPool>k__BackingField: 1
